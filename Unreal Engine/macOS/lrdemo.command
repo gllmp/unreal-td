@@ -1,0 +1,1 @@
+/Users/Shared/Epic\ Games/UE_4.27/Engine/Binaries/Mac/UE4Editor.app/Contents/MacOS/UE4Editor -log /Users/guillaume/Documents/Unreal\ Projects/LRdemo\ 4.27/Blank4261.uproject
