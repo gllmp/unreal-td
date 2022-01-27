@@ -77,9 +77,12 @@ DerivedDataCache/*
 *.DS_Store
 
 # Other
+Data/*
+
 TouchDesigner/.DS_Store
 TouchDesigner/nanoKontrl2
 TouchDesigner/SDiamah/*
+TouchDesigner/SDIAMAH_VJ_DEMO/*
 
 Unreal Engine/Projects/.DS_Store
 Unreal Engine/Projects/Landscape/*
